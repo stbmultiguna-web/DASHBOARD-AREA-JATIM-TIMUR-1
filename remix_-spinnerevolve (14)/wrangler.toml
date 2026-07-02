@@ -1,0 +1,6 @@
+name = "dashboard-area-jatim-timur"
+pages_build_output_dir = "dist"
+
+[vars]
+# Add your GEMINI_API_KEY to the Cloudflare Pages dashboard
+# GEMINI_API_KEY = "your-api-key-here"
